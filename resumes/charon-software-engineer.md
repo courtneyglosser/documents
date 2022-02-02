@@ -1,7 +1,7 @@
 
 >[courtneyglosser@gmail.com](mailto:courtneyglosser@gmail.com) | [540.819.2010](tel:5408192010)
 
-# Courtney Glosser - Software Engineer - TS/SCI - CI POly
+# Courtney Glosser - Software Engineer - TS/SCI - CI Poly
 
 - Over 18 years experience developing software
 - Proven track record of onboarding to emergent technology
