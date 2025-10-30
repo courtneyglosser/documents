@@ -21,16 +21,6 @@
 - Created, integrated, and documented APIs (REST, SOAP, and additional proprietary)
 - Fully adjudicated TS/SCI with CI Poly
 
-## Education
-**Roanoke College** - Bachelor's degree in Computer Science
-
-**Microsoft Certified:  Azure Fundamentals** Active October 19, 2023
-
-**Security +** - Active September 2019 - September 2025
-
-**AWS Solutions Architect - Associate** - Active July 2018 - July 2020
-
-**Certified Scrum Master** - Active May 2012
 
 ## Experience
 
@@ -82,3 +72,16 @@
 - Responsible for proposals and small business sales
 - Management multiple client projects in parallel
 - Responsible for full-stack software development
+
+
+## Education
+**Roanoke College** - Bachelor's degree in Computer Science
+
+**Microsoft Certified:  Azure Fundamentals** Active October 19, 2023
+
+**Security +** - Active September 2019 - September 2025
+
+**AWS Solutions Architect - Associate** - Active July 2018 - July 2020
+
+**Certified Scrum Master** - Active May 2012
+
