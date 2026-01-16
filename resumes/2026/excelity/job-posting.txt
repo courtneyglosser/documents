@@ -1,0 +1,31 @@
+
+https://jobs.gem.com/excelity-careers/am9icG9zdDpxuNIjwgZuNT2m_ESKJBUI
+
+At Excelity, we're passionate about delivering innovative technology solutions that help businesses thrive. Whether you're looking to streamline your operations, improve efficiency, or enhance customer engagement, our team of experienced professionals is here to help. So why wait? Visit excelity.io today to learn more about how we can help you achieve your goals and take your business to the next level.
+
+Excelity is seeking a DevOps Engineer for a project responsible for building the next generation Mission Integration System for an exciting Government customer with a very critical mission. The candidate will work with the engineering team and customer to ensure successful development of high profile, complex, technical deliverables that are core to the continued success of our award-winning projects. The selected candidate will work with a government-provided CI/CD build and deploy pipeline designed for container orchestration solutions using the OpenShift Container Platform (OCP). The candidate will integrate a variety of software components in a secure container architecture working with cross functional teams to debug critical issues. Candidate will also support the migration of containerized workflows from platforms such as Docker Swarm, Kubernetes (vanilla or managed) to OCP.
+
+Required Clearance: TS/SCI w/ CI Poly
+Required Qualifications:
+A Bachelor’s degree and 9 years of relevant experience OR a Master’s degree with 7 years of relevant experience OR a PhD with 4 years of relevant experience; an additional 4 years of experience may be considered in lieu of the degree requirement
+Experience with Linux Environments
+Experience with scripting languages, such as Bash and Python
+Experience with OCP or similar container environment
+Understanding of Kubernetes or OpenShift Container Platform
+Understanding and willingness to work in a DevSecOps oriented environment with an Infrastructure as Code mindset
+DoD IAT Level II Certification (Security + CE, CISSP, etc.)
+Preferred Qualifications:
+Basic understanding of an Object-Oriented Programming Language, such as Java
+Experience developing, deploying, monitoring, and troubleshooting software solutions
+Experience integrating Gitlab for automated CI/CD pipelines
+Benefits:
+Competitive salary
+Flexible work schedule
+100% Health, Dental, Vision, and Life Insurance plans with Flexible Spending Account (FSA)
+Long and Short-term disability coverage
+Generous paid vacation and holiday time
+Safe Harbor 401(k) Retirement Plan with 6% Employer matching contributions
+Reimbursement for professional and training development
+Company-paid memberships to professional organizations
+
+
