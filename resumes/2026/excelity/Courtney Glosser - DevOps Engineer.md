@@ -1,26 +1,17 @@
 
 >[courtneyglosser@gmail.com](mailto:courtneyglosser@gmail.com) | [540.819.2010](tel:5408192010)
 
-# Courtney Glosser - Sr Software Engineer - TS/SCI - CI Poly
-# Courtney Glosser - Sr Software Engineering Manager - TS/SCI - CI Poly
-# Courtney Glosser - Directof or Software Engineering - TS/SCI - CI Poly
+# Courtney Glosser - Sr DevOps Engineer
+
+## Key Qualifications
 
 - Over 20 years' experience developing software
-- Over 10 years' of project and personnel management
-- Proven track record of growing successful teams
-- Responsible for stabalizing struggling team and growing over 200%
-- Lead successful team through cross-company merger, negotiated increased staff and resources
-- Grew product portfolio from $2MM revenue to $6MM
-- Responsible for engaging multiple stakeholders and deconflicting priorities
-- Served as career manager, job leader, and mentor for multiple junior and mid-level staff
-- Proven track record of onboarding to emergent technology
-- Polyglot, comfortable with Python, JavaScript (Node.js, Angular), Java, PHP, and onboarding to new languages
-- Fluent in containerized technology including Kubernetes hosted solutions on secure cloud platform
-- Experienced with architecting, optimizing, and creating and using ORMs for Databases (both relational and no-SQL)
-- Lead refactoring efforts to bring legacy code under automated testing, while continuing to deliver new features
-- Created, integrated, and documented APIs (REST, SOAP, and additional proprietary)
+- Proficient in Linux Systems Administration
+- Proficient with Python and BASH in addition several other programming languages
+- Experienced in orchestrated Kubernetes deployments of containerized systems
+- CompTIA Security+ certification valid through 2028
+- Career-long track record of handling full SDLC through deployment and monitoring
 - Fully adjudicated TS/SCI with CI Poly
-
 
 ## Experience
 
