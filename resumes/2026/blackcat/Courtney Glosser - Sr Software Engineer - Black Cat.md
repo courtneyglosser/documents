@@ -1,18 +1,16 @@
 
 >[courtneyglosser@gmail.com](mailto:courtneyglosser@gmail.com) | [540.819.2010](tel:5408192010)
 
-# Courtney Glosser - Sr Software Engineer
+# Courtney Glosser - Cleared Enterprise Architect
 
 ## Key Qualifications
-- Proven experience with Java, Apache Kafka, and Apache NiFi for building scalable data pipelines.
-- Multiple cloud certificates, and years of experience in Amazon AWS commercial and secret cloud ecosystems.
-- Experience with Docker, Kubernetes, Helm Chart orchestration, etc.
-- Certified Scrum Master with 15 years experience working in agile environments
-- Polyglot, comfortable with Python, JavaScript (Node.js, Angular, VueJS), Java, PHP, and onboarding to new languages
-- Experienced with architecting, optimizing, and creating and using ORMs for Databases (both relational and no-SQL).  That is, MySQL (MariaDB), Postgres, MS SQL Server, AWS DynamoDB, Mongo, etc.
-- Familiar with Hadoop, Spark, and ElasticSearch technologies
+- Over 20 years of experience in software develop, supporting projects from initial stakeholder ideation to enterprise level deployment.
 - Fully adjudicated TS/SCI with CI Poly
-
+- Experience leading development efforts across multiple teams
+- Multiple cloud certificates, and years of experience in Amazon AWS commercial and secret cloud ecosystems.
+- Experience with ElasticSearch technology
+- Experienced with architecting, optimizing, and creating and using ORMs for Databases (both relational and no-SQL).  That is, MySQL (MariaDB), Postgres, MS SQL Server, AWS DynamoDB, MongoDB, etc.
+- Proven history of communicated complicated technical concepts to stakeholders with a variety of technical and business accumen.
 
 ## Experience
 
