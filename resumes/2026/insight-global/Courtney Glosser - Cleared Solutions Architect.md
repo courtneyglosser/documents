@@ -16,6 +16,7 @@
 - Experience on multiple contracts operating in DoJ and IC secure environments
 - Fully adjudicated TS/SCI with CI Poly
 
+
 ## Experience
 
 **Mission Technology Group** \

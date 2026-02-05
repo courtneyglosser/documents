@@ -6,7 +6,6 @@
 - Over 20 years experience developing software
 - Over 10 years of project and personnel management
 - Proven track record of growing successful teams
-- Responsible for stabalizing struggling team and growing over 200%
 - Responsible for engaging multiple stakeholders and deconflicting priorities
 - Served as career manager, job leader, and mentor for multiple junior and mid-level staff
 - Comfortable with Python, JavaScript (Node.js, Angular), Java, PHP, and onboarding to new languages
@@ -85,4 +84,4 @@
 
 **AWS Solutions Architect - Associate** - Active July 2018 - July 2020
 
-**Certified Scrum Master** - Active May 2012
+**Certified Scrum Master** - Active May 2013
